@@ -1,0 +1,14 @@
+Tomasz Nowicki's presentation on Thursday covered some problem solving strategies to help overcome difficulties while conducting mathematical research. For the contaminated 
+wafer bit of his presentation, I think he wanted to express some creative ways to try and solve mathematical problems such as finding a suitable statistical test for the experiment.
+Another problem solving stragy he shared was using the infinite case to solve the "easier" case. Basically, when faced with a problem one should get all the details about the problem
+because sometimes a seemingly easier case is not actually an easier case. 
+
+The presentation definitely gave me an idea of the difficulty of mathematical research. Despite my experience with statistics and dynamic models,
+I was not able to follow Mr. Nowicki's presentation. Perhaps the pacing of the presentation was too fast or my grasp of the topics are not solid enough to be able to follow. However, I 
+understand that the technical details of the problems were not the focus of the presenation. Instead, I believe the focus of the presentation was to show the mathematical tools he needed
+to do his research and to show how he developed solutions in his research. Mr. Nowicki's use of the board was effective in communicating the idea, however he did lose me fairly
+quickly in the presentation. He also had some anecdotes in the presentation that distracted me from the key points of his presentation.
+
+Professor Chyba's summary at the end was very helpful. She touched upon learning how to listen to a 50 minute presenation and summarized the ideas of Mr. Nowicki's presenation
+very effectively. Through this presenation, I learned that I do indeed need to develop better listening skills so I do not get lost in a 50 minute presentation. Also, I enjoyed
+the glimpse into the difficult technicalities of mathematical research and honing my own problem solving skills to do similar research in the future. 
